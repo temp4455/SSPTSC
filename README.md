@@ -1,6 +1,6 @@
 # Self-Supervised Learning for Time Series Pre-training
 
-This repository is the [PyTorch](http://pytorch.org/) implementation for the paper "Self-Supervised Learning for Time Series Pre-training"
+This repository is the [PyTorch](http://pytorch.org/) implementation for the paper "Self-Supervised Pre-training for Time Series Classification"
 <!-- <img src='./figure/task_all2.png' align="center" width="700px"> -->
 
 ## Environment
